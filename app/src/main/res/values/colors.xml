@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#5e60ce</color>
+    <color name="colorPrimaryDark">#7400b8</color>
+    <color name="colorAccent">#40916c</color>
+    <color name="startBtnBg">#ff4d6d</color>
+    <color name="landingPageBg">#95d5b2</color>
+    <color name="toolbar_color_control">#000</color>
 </resources>
